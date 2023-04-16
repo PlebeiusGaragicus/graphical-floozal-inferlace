@@ -1,0 +1,3 @@
+Name,Wattage,eff,quantity
+S9,1400,78,4
+# TODO - write load from csv function
